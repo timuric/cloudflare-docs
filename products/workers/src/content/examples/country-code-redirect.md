@@ -37,7 +37,7 @@ async function redirect(request) {
  */
 const countryMap = {
   US: "https://example.com/us",
-  EU: "https://eu.example.com/",
+  FR: "https://eu.example.com/",
 }
 
 async function handleRequest(request) {
